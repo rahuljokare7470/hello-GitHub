@@ -1,2 +1,3 @@
 # hello-GitHub
-My first GitHub repository.
+My first GitHub repository. 
+Author: Rahul Jokare
